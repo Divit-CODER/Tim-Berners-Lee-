@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 .profile{
 width: 220;
@@ -62,4 +63,16 @@ height: 6px;
     background-color:darkcyan;
     
     
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: darkslategrey;
+    margin: 8px auto;
+}
+a{
+    text-decoration: none
+}
+.article:hover{
+    color:aqua;
 }
